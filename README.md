@@ -37,21 +37,19 @@ Atlassian
 
 ## Video 
 
-[Install NodeJS English](https://nodejs.org/en/)
-[Install NodeJS Francais](https://nodejs.org/fr/)
+1. [Install NodeJS English](https://nodejs.org/en/)
+1. [Install NodeJS Francais](https://nodejs.org/fr/)
 
-[NodeJS Crash course](https://www.youtube.com/watch?v=U8XF6AFGqlc) 
-[NodeJS Another course](https://www.youtube.com/watch?v=ENrzD9HAZK4)
-[NodeJS API with mongodb](https://www.youtube.com/watch?v=fsCjFHuMXj0)
-
-
-[NodeJS API intro en francais eps 1](https://www.youtube.com/watch?v=6F1kvoHgjNY)
-[NodeJS API intro en francais eps 2](https://www.youtube.com/watch?v=7Ym-GxeR-HI)
-[NodeJS API intro en francais eps 3](https://www.youtube.com/watch?v=hggvCij14F0)
-[NodeJS API intro en francais eps 4](https://www.youtube.com/watch?v=NPJms-kg2F8)
+1. [NodeJS Crash course](https://www.youtube.com/watch?v=U8XF6AFGqlc) 
+1. [NodeJS Another course](https://www.youtube.com/watch?v=ENrzD9HAZK4)
+1. [NodeJS API with mongodb](https://www.youtube.com/watch?v=fsCjFHuMXj0)
 
 
-[React hooks](https://www.youtube.com/watch?v=mxK8b99iJTg)
+1. [NodeJS API intro en francais eps 1](https://www.youtube.com/watch?v=6F1kvoHgjNY)
+1. [NodeJS API intro en francais eps 2](https://www.youtube.com/watch?v=7Ym-GxeR-HI)
+1. [NodeJS API intro en francais eps 3](https://www.youtube.com/watch?v=hggvCij14F0)
+1. [NodeJS API intro en francais eps 4](https://www.youtube.com/watch?v=NPJms-kg2F8)
+
 
 
 
