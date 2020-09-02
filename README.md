@@ -35,10 +35,12 @@ Google suit
 Atlassian
 ```
 
-## Video 
+## Links 
 
 1. [Install NodeJS English](https://nodejs.org/en/)
 1. [Install NodeJS Francais](https://nodejs.org/fr/)
+
+## Video
 
 1. [NodeJS Crash course](https://www.youtube.com/watch?v=U8XF6AFGqlc) 
 1. [NodeJS Another course](https://www.youtube.com/watch?v=ENrzD9HAZK4)
