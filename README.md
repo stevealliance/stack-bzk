@@ -56,7 +56,7 @@ npm i express --save
 ```
 
 Create file `index.js` and add the following code
-```jaavscript
+```javascript
 const express = require('express')
 const route = require('./route')
 const app = express()
