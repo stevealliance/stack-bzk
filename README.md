@@ -128,6 +128,12 @@ npx create-react-app [the name the app]
 ```
 This will allow you to have a start up React app.
 
+```terminal
+npm run start
+```
+This command will use port 3000 in your default browser
+all code can be found in this repo [course](https://github.com/stevealliance/bzk-course)
+# 
 
 ## Video
 
